@@ -10,6 +10,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
+//Class for using the ObjectOutputStream and ObjectInputStream 
 public class MainSeri {
 
 	  public static void main(String[] args) {
