@@ -10,6 +10,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+// Class: Use the DataOutputStream and DataOInputStream
 public class MainDataStream {
 
 	  public static void main(String[] args) {

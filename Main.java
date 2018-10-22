@@ -3,6 +3,8 @@ package com.aladino.io;
 //Package à importer afin d'utiliser l'objet File
 import java.io.File;
 
+
+// Class Main: analyse all roots of the system
 public class Main {
 public static void main(String[] args) {
   //Création de l'objet File
